@@ -1,0 +1,9 @@
+# Vagrant stuff
+.vagrant
+
+# JetBrains stuff
+.idea
+
+# Logs and other stuff
+*.log
+*/join-command
